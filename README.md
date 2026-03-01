@@ -11,7 +11,12 @@ I blend my technical background with deep domain knowledge in **Finance (Crypto/
 - ⚡ Fun fact: I can debug code in the morning and plan a high-altitude trekking route to Abuji Lake in the afternoon!
 
 ### 🛠 Tech Stack & Tools
-- **Languages:** Python, C, Shell, Markdown
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=robot&logoColor=white" />
+</p>
 - **AI/LLM:** Prompt Engineering, Fact-checking, Hallucination Detection
 - **Domain Expertise:** Financial Markets, Cross-border Visa (WHV) Planning, PTE Academic
 
